@@ -9,3 +9,24 @@ body {
     align-items: center;
     gap: 2rem;
 }
+
+.pricing-plan {
+    flex: 1;
+    max-width: 500px;
+    padding: 20px;
+    background-color: #dbb4b4;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.plan-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.plan-price {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
