@@ -30,3 +30,14 @@ body {
     font-size: 3rem;
     margin-bottom: 15px;
 }
+
+.plan-features {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.plan-features li {
+    margin-bottom: 10px;
+}
+
